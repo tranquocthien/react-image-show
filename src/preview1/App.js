@@ -1,4 +1,5 @@
 /* TEST DATA BEGINS */
+/*https://codepen.io/anurag94/pen/GMGQeR*/
 const SAMPLE_IMAGES = Array(6).fill(0).map((_, i) => ({
   file: {},
   thumbnail: `https://picsum.photos/500/400/?random${i}`
